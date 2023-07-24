@@ -1,12 +1,12 @@
-###Hi there 👋
+Hi there 👋
 
 I'm passionate about learning new technologies and wish to increase my presence in the open source community.
 BIO
--🏢 I'm currently working as a Project Manager Intern @ AllianceIT
--⚙️ Tech I feel comfortable with: .java, .html, .css, .c
--🎓 Completing a Bachlors of Computing at The University of Guelph (BE. Software)
--🌱 Learning all about React to build my new personal website!
--⚡ Fun fact: Avid Golfer and active gym member helping people realize their true potenial!
+*🏢 I'm currently working as a Project Manager Intern @ AllianceIT
+*⚙️ Tech I feel comfortable with: .java, .html, .css, .c
+*🎓 Completing a Bachlors of Computing at The University of Guelph (BE. Software)
+*🌱 Learning all about React to build my new personal website!
+*⚡ Fun fact: Avid Golfer and active gym member helping people realize their true potenial!
 
 
 
