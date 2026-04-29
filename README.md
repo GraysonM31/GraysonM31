@@ -3,7 +3,7 @@
 #### I'm passionate about learning new technologies and wish to be more active in the open source community. 
 
 ##### BIO
-- 🏢 I'm currently working as a **Software Developer @ Purolator**
+- 🏢 I'm currently working as a **Process Engineer @ PointClickCare**
 - ⚙️ Tech I feel comfortable with: `.java`, `.html`, `.css`, `.c`
 - 🎓 Completing a bachlors of computing at **The University of Guelph (BC. Software Engineering)**
 - 🌱 Learning all about **React** to update my personal website! 
