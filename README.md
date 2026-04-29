@@ -5,7 +5,7 @@
 ##### BIO
 - 🏢 I'm currently working as a **Process Engineer @ PointClickCare**
 - ⚙️ Tech I feel comfortable with: `.java`, `.html`, `.css`, `.c`
-- 🎓 Completing a bachlors of computing at **The University of Guelph (BC. Software Engineering)**
+- 🎓 Recently completed my bachelor's degree at **The University of Guelph (BC. Software Engineering)**
 - 🌱 Learning all about **React** to update my personal website! 
 - ⚡ Fun fact: Avid Golfer and active member in the gym
 
